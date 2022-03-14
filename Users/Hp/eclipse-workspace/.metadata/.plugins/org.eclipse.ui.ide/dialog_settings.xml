@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\hibernate_mappings-master\hibernate_mappings-master\mappingbag"/>
+			<item value="D:\hibernate_mappings-master\hibernate_mappings-master\componentmapping"/>
+			<item value="D:\phase2-master (1)\phase2-master\CookiesDemo"/>
+			<item value="D:\Simplilearn-main\Simplilearn-main\Assisted projects phase2\Assisted projects phase2\ComponentMapping"/>
+			<item value="D:\Users\Hp\eclipse-workspace\GET_POST_Demo"/>
+			<item value="D:\Users\Hp\eclipse-workspace\FilterDemo"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.internal.ide.dialogs.ProjectContentsLocationArea">
+		<item key="OUTSIDE_LOCATION" value="D:\Users"/>
+	</section>
+</section>
